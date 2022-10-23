@@ -12,6 +12,7 @@ This website is designed to help marketers optimize their search engines, keep o
 
 https://jdanders99.github.io/Module-1-Challenge/
 https://github.com/Jdanders99/Module-1-Challenge
+01-html-css-git-homework-demo.png
 
 ## License
 
